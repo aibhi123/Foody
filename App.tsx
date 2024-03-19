@@ -78,7 +78,7 @@ function App(): React.JSX.Element {
             <ReloadInstructions />
           </Section>
           <Section title="Learn More">
-           India no 1 food delivery dining app by us
+           India no 1 food delivery dining app by usssss
           </Section>
           <LearnMoreLinks />
         </View>
